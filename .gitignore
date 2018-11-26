@@ -1,0 +1,4 @@
+*.bin
+.vscode
+*.code-workspace
+.DS_Store
